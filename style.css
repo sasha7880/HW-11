@@ -22,7 +22,7 @@ body {
 .button:hover {
     background-color: #989aff;
 }
-.pane img {
+.pane>img {
     border-radius: 20px;
     width: 100%;
 }
